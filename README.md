@@ -31,7 +31,7 @@
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=aayush-shah-cs&theme=dracula&no-frame=true&no-bg=true&margin-w=8&row=1" alt="trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=aayush-shah-cs&theme=radical&row=1&margin-w=8" alt="trophies" />
 
 <br/><br/>
 
@@ -60,6 +60,10 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=aayush-shah-cs&label=PROFILE+VIEWS&color=22D3EE&style=flat-square&base=0" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=aayush-shah-cs&label=PROFILE+VIEWS&color=10B981&style=for-the-badge&base=0" alt="profile views" />
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/aayush-shah-cs/aayush-shah-cs/main/footer.svg" alt="footer" />
 
 </div>
