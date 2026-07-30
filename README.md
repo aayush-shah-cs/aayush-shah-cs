@@ -27,15 +27,15 @@
 <br/><br/>
 
 <a href="https://shorturl.at/Q2vEq">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://raw.githubusercontent.com/aayush-shah-cs/aayush-shah-cs/main/badge_linkedin.svg" alt="LinkedIn" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/aayush-shah-cs/Portfolio">
-  <img src="https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=vercel&logoColor=22D3EE&labelColor=0A101F" alt="Portfolio" />
+  <img src="https://raw.githubusercontent.com/aayush-shah-cs/aayush-shah-cs/main/badge_portfolio.svg" alt="Portfolio" />
 </a>
 &nbsp;&nbsp;
 <a href="mailto:aayush.shah.jp@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" />
+  <img src="https://raw.githubusercontent.com/aayush-shah-cs/aayush-shah-cs/main/badge_email.svg" alt="Email" />
 </a>
 
 </div>
